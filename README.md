@@ -1,16 +1,53 @@
-# what_app_ui
+# WhatsApp UI Clone
 
-A new Flutter project.
+A Flutter-based WhatsApp UI clone that replicates the look and feel of the official WhatsApp application.
 
-## Getting Started
+## Features
+- **Fully Responsive** UI for both Android & iOS
+- **Chat Screen** with message bubbles
+- **Status Screen** to display user status updates
+- **Calls Screen** showing recent call history
+- **Navigation Bar** to switch between different sections
 
-This project is a starting point for a Flutter application.
+## Deployment
+This application is deployed and accessible at:  
+https://flutterwhatapp.netlify.app
 
-A few resources to get you started if this is your first Flutter project:
+## How to Run Locally
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/whatsapp-ui.git
+   cd whatsapp-ui
+   ```
+2. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+3. Run the app:
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/b774656d-5510-4314-aecc-b7a234ddbf60)
+
+
+![image](https://github.com/user-attachments/assets/70bd0f66-a03a-4d6a-a650-94520b2759f4)
+
+
+![image](https://github.com/user-attachments/assets/a9a57c61-8648-4248-8b7f-c92b10052ffc)
+
+
+
+
+
+## Technologies Used
+- **Flutter** for UI
+- **Dart** for logic
+
+## Contributing
+Feel free to fork the project and submit a pull request for improvements.
+
+## License
+This project is licensed under the MIT License.
